@@ -1,5 +1,5 @@
 {
-  "name": "@mean-expert/loopback-sdk-builder",
+  "name": "@lupascudan/loopback-sdk-builder",
   "version": "2.3.1",
   "description": "Tool for auto-generating Software Development Kits (SDKs) for LoopBack",
   "bin": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mean-expert-official/loopback-sdk-builder.git"
+    "url": "git://github.com/danlupascu/loopback-sdk-builder.git"
   },
   "keywords": [
     "loopback",
@@ -32,9 +32,8 @@
     "{N}"
   ],
   "author": {
-    "name": "Jonathan Casarrubias",
-    "email": "jcasarrubias@mean.expert",
-    "url": "http://mean.expert"
+    "name": "Lupascu Dan",
+    "email": "lupascudan1@gmail.com"
   },
   "contributors": [
     {
@@ -103,7 +102,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mean-expert-official/loopback-sdk-builder/issues"
+    "url": "https://github.com/danlupascu/loopback-sdk-builder/issues"
   },
   "dependencies": {
     "chalk": "1.1.3",
